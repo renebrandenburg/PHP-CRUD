@@ -1,3 +1,3 @@
 # PHP-CRUD
 
-Simple crud application writting in php
+Simple crud application written in php
