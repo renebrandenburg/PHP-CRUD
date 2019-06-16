@@ -57,3 +57,4 @@ if (isset($_POST['submit'])) {
 <a href="index.php">Back to home</a>
 
 <?php require "templates/footer.php"; ?>
+
